@@ -1,0 +1,131 @@
+id_cliente,nome,tipo,segmento,qtd_campanhas,ano_ultima_interacao,valor_ultima_campanha,status
+70.887.041/3756-00,InvestMax Financeiro,PJ,Automotivo,6,2019,39546.39,Inativo
+65.939.441/4825-00,KleanHome Produtos,PJ,Automotivo,5,2023,34983.41,Ativo
+92.137.452/8220-65,Empório Sabores ME,PJ,Automotivo,1,2022,7411.42,Inativo
+91.925.646/7866-78,QualiSaúde Clínicas,PJ,Automotivo,11,2021,31186.44,Inativo
+88.827.020/9143-96,Haute Moda Ltda,PJ,Varejo,2,2023,14093.72,Ativo
+18.697.946/0811-06,FrigoNorte Alimentos,PJ,Varejo,11,2022,52790.69,Ativo
+17.407.611/4589-21,CompreFácil Varejo,PJ,Automotivo,10,2019,57893.12,Ativo
+52.337.518/3607-51,EduMax Cursos,PJ,Turismo,2,2023,32102.57,Ativo
+07.652.103/5985-36,Yara Cosméticos Ltda,PJ,Automotivo,12,2024,28390.13,Ativo
+77.138.861/7593-82,ZapFood Delivery,PJ,Construção,12,2018,9230.18,Ativo
+40.708.537/7859-39,Galpão Construções,PJ,Turismo,10,2018,45823.99,Ativo
+38.823.384/6878-38,Drive Motors Ltda,PJ,Varejo,2,2018,70334.8,Inativo
+11.054.318/1001-25,Paço Automotivo Ltda,PJ,Varejo,3,2022,24858.23,Inativo
+21.753.377/2747-20,Atacadão Norte Ltda,PJ,Automotivo,4,2018,44349.97,Ativo
+56.334.722/6145-42,MegaVarejo S.A.,PJ,Automotivo,7,2019,42480.28,Ativo
+83.823.970/7707-34,Nativa Alimentos,PJ,Construção,3,2022,19734.24,Ativo
+65.173.660/1423-30,TerraFirme Construtora,PJ,Varejo,12,2018,21563.27,Ativo
+23.687.034/3930-71,AlphaVest Moda,PJ,Turismo,3,2018,31520.0,Inativo
+53.345.067/8739-85,OmniDigital Tech,PJ,Turismo,2,2022,4679.84,Inativo
+68.096.626/6141-69,NeoFinance S.A.,PJ,Varejo,1,2022,10934.74,Ativo
+39.502.472/8865-93,JáCompra Varejo,PJ,Varejo,8,2024,16830.57,Ativo
+32.770.619/0458-68,SoftEdge Sistemas,PJ,Turismo,11,2019,71018.26,Ativo
+77.903.143/8999-55,HotelTop Turismo,PJ,Construção,4,2018,69608.65,Ativo
+36.852.702/5849-75,Klara Beleza Ltda,PJ,Turismo,6,2022,64700.72,Ativo
+31.699.730/9461-30,WebStore Varejo,PJ,Turismo,2,2018,51893.58,Inativo
+66.505.901/2424-06,BetaCar Motors,PJ,Varejo,7,2018,75098.6,Ativo
+49.949.978/2068-08,VidaPlena Saúde,PJ,Construção,6,2024,34270.4,Ativo
+67.632.538/1591-13,MaisAgro Ltda,PJ,Turismo,3,2018,20480.22,Inativo
+51.611.221/8899-91,UniLearn Educação,PJ,Automotivo,7,2024,65619.65,Ativo
+97.793.735/3814-49,InovaBuild Construtora,PJ,Turismo,3,2021,9295.79,Inativo
+012.195.586-99,Helena Pinto,PF,Alimentação,8,2024,60542.02,Ativo
+241.592.066-54,Ana Lima,PF,Tecnologia,7,2021,16124.68,Ativo
+771.260.033-31,Juliana Alves,PF,Educação,4,2023,59647.1,Ativo
+576.340.634-60,Igor Castro,PF,Turismo,9,2023,74650.75,Ativo
+852.884.836-12,Eduardo Farias,PF,Saúde,1,2020,16833.85,Ativo
+132.412.415-64,Fernanda Gomes,PF,Construção,11,2019,8506.15,Ativo
+39.802.819/8230-07,AlphaVest Moda,PJ,Automotivo,7,2023,64045.37,Ativo
+74.390.352/9362-30,BetaCar Motors,PJ,Construção,7,2020,67861.86,Ativo
+52.884.461/8423-73,CompreFácil Varejo,PJ,Turismo,1,2018,55441.99,Ativo
+29.346.820/4466-32,DataBridge Tech,PJ,Varejo,11,2024,36093.55,Ativo
+70.041.364/8298-92,EduMax Cursos,PJ,Automotivo,10,2019,63412.19,Inativo
+62.635.805/2413-60,FrigoNorte Alimentos,PJ,Construção,6,2024,16265.09,Ativo
+82.400.478/1470-00,GrupoFit Saúde,PJ,Turismo,9,2020,63379.61,Ativo
+47.428.127/9702-92,HotelTop Turismo,PJ,Varejo,10,2020,26623.75,Inativo
+57.440.802/5303-68,InovaBuild Construtora,PJ,Automotivo,7,2023,75100.95,Ativo
+08.237.872/5268-90,JáCompra Varejo,PJ,Construção,1,2018,51843.22,Ativo
+15.256.570/0169-75,KleanHome Produtos,PJ,Turismo,2,2020,57244.56,Ativo
+14.700.177/2543-95,LuzBrilho Beleza,PJ,Varejo,9,2024,44659.68,Ativo
+26.245.447/0821-70,MaisAgro Ltda,PJ,Automotivo,2,2023,21576.01,Ativo
+15.100.933/3655-68,NeoFinance S.A.,PJ,Construção,4,2019,29722.16,Inativo
+38.029.663/6007-29,ObraFácil Construtora,PJ,Turismo,11,2021,19343.38,Ativo
+50.637.108/6009-47,PrimeAuto Ltda,PJ,Varejo,1,2022,17865.38,Inativo
+59.308.343/1078-01,QuantumSoft Tech,PJ,Automotivo,3,2019,17307.16,Ativo
+27.646.796/5114-66,RedeTur Viagens,PJ,Construção,8,2023,61552.46,Ativo
+33.110.605/0482-00,SuperNutri Alimentos,PJ,Turismo,10,2021,59166.4,Inativo
+38.859.101/5036-93,TechWave Sistemas,PJ,Varejo,10,2024,17379.83,Ativo
+54.778.849/8140-28,UniMed Saúde,PJ,Automotivo,12,2020,6197.78,Ativo
+04.955.549/6381-95,ViajarMais Turismo,PJ,Construção,8,2018,25714.27,Ativo
+37.341.091/4455-05,WebFarm Agro,PJ,Turismo,3,2021,55167.96,Inativo
+65.816.255/4183-04,XtraVarejo Ltda,PJ,Varejo,3,2021,76674.28,Ativo
+62.515.362/0824-70,YogaVida Bem-Estar,PJ,Automotivo,9,2018,7285.08,Inativo
+65.421.250/6106-40,ZoneMedia Tech,PJ,Construção,12,2023,16800.37,Ativo
+12.147.922/3260-51,AgroPrime Ltda,PJ,Turismo,11,2021,10616.34,Ativo
+86.853.528/3643-25,BioNutri Saúde,PJ,Varejo,4,2024,21063.21,Ativo
+18.310.985/3045-07,ClubFit Academia,PJ,Automotivo,5,2024,65866.6,Ativo
+39.365.557/8687-57,DomésticoFácil,PJ,Construção,9,2023,33431.86,Ativo
+63.904.861/6003-08,EcoLimpe Produtos,PJ,Turismo,1,2020,28224.44,Inativo
+61.763.063/8151-55,FazendasBR Agro,PJ,Varejo,2,2021,62063.47,Ativo
+62.328.706/8630-94,GastroTop Alimentos,PJ,Automotivo,12,2018,49574.36,Ativo
+06.241.520/5808-29,HighClass Moda,PJ,Construção,6,2019,57832.64,Inativo
+92.684.006/4936-62,ImóvelPrime Construtora,PJ,Turismo,11,2021,23090.7,Ativo
+72.291.759/9381-47,JuntoSeguros,PJ,Varejo,2,2018,13408.96,Inativo
+02.864.782/8874-39,KidLearn Educação,PJ,Automotivo,9,2019,61443.24,Ativo
+48.411.361/1768-67,LivrariaCultura,PJ,Construção,10,2018,41143.32,Ativo
+15.587.722/2354-79,MercadoBom Varejo,PJ,Turismo,8,2022,16372.19,Ativo
+15.733.066/4328-90,NovaTerra Agro,PJ,Varejo,3,2022,31192.96,Ativo
+20.591.644/3354-70,OficinaTop Auto,PJ,Automotivo,8,2021,69952.78,Inativo
+66.356.039/4012-21,PecuáriaSul Agro,PJ,Construção,1,2024,42555.87,Ativo
+20.655.087/4666-99,QualityFarm Agro,PJ,Turismo,11,2021,7202.7,Ativo
+82.278.061/3941-02,RetailBR Varejo,PJ,Varejo,6,2021,57365.84,Ativo
+44.730.669/9588-71,SolarTech Energia,PJ,Automotivo,11,2019,19957.38,Ativo
+51.692.555/2055-82,TurboAuto Motors,PJ,Construção,12,2020,57128.9,Ativo
+30.743.885/8534-09,UltraFit Academia,PJ,Turismo,4,2021,41931.2,Inativo
+13.717.564/6954-08,VitalFarm Saúde,PJ,Varejo,4,2021,12988.95,Ativo
+64.774.257/6921-23,Atacadão Norte Ltda,PJ,Automotivo,6,2019,19520.74,Ativo
+77.186.888/2036-60,BioFarma Saúde S.A.,PJ,Construção,9,2024,44803.21,Ativo
+99.193.064/9724-41,Centro Educacional Futuro,PJ,Turismo,11,2022,59154.12,Inativo
+13.461.344/4097-06,Drive Motors Ltda,PJ,Varejo,8,2023,25542.56,Ativo
+18.799.079/8733-93,Empório Sabores ME,PJ,Automotivo,9,2023,23055.32,Ativo
+76.779.132/0382-89,FuturaTech Sistemas,PJ,Construção,10,2022,62812.68,Ativo
+87.228.903/1458-52,Galpão Construções,PJ,Turismo,5,2022,6121.66,Ativo
+43.215.405/3647-80,Haute Moda Ltda,PJ,Varejo,3,2018,77640.4,Inativo
+16.526.494/2164-36,InvestMax Financeiro,PJ,Automotivo,12,2024,64384.28,Ativo
+45.438.966/6946-41,JetTravel Turismo,PJ,Construção,2,2018,40759.93,Ativo
+47.569.797/6597-01,Klara Beleza Ltda,PJ,Turismo,10,2019,77307.04,Ativo
+89.745.488/5715-02,LavouraVerde Agro,PJ,Varejo,11,2023,7385.01,Ativo
+02.203.325/3961-73,MegaVarejo S.A.,PJ,Automotivo,1,2023,75927.2,Ativo
+90.707.017/1292-92,Nativa Alimentos,PJ,Construção,9,2019,55868.97,Ativo
+59.025.594/7326-60,OmniDigital Tech,PJ,Turismo,8,2018,43320.56,Inativo
+85.881.227/0915-16,Paço Automotivo Ltda,PJ,Varejo,6,2024,36406.29,Ativo
+95.831.835/5403-90,QualiSaúde Clínicas,PJ,Automotivo,12,2024,17209.53,Ativo
+94.942.668/7080-80,RuralBom Agro,PJ,Construção,8,2020,28635.32,Inativo
+81.667.872/6403-54,SoftEdge Sistemas,PJ,Turismo,1,2018,78180.32,Ativo
+46.807.966/1469-39,TerraFirme Construtora,PJ,Varejo,4,2018,12982.48,Ativo
+97.056.935/5722-73,UniLearn Educação,PJ,Automotivo,12,2023,60216.32,Ativo
+25.425.824/3859-23,VidaPlena Saúde,PJ,Construção,12,2018,47943.46,Inativo
+97.025.328/6379-84,WebStore Varejo,PJ,Turismo,9,2018,9636.8,Ativo
+20.341.382/1773-00,XPrime Financeiro,PJ,Varejo,8,2020,76671.53,Inativo
+07.338.038/9042-89,Yara Cosméticos Ltda,PJ,Automotivo,1,2024,59906.4,Ativo
+90.727.027/0307-57,ZapFood Delivery,PJ,Construção,11,2022,55563.3,Inativo
+50.986.824/4456-08,AlphaVest Moda,PJ,Turismo,7,2018,66138.54,Ativo
+09.673.959/3563-40,BetaCar Motors,PJ,Varejo,8,2021,71496.8,Inativo
+74.977.836/3129-01,CompreFácil Varejo,PJ,Automotivo,2,2019,12306.47,Inativo
+55.982.918/5274-24,DataBridge Tech,PJ,Construção,6,2024,44398.25,Ativo
+00.397.564/3978-24,EduMax Cursos,PJ,Turismo,8,2021,29749.26,Inativo
+72.949.970/9175-30,FrigoNorte Alimentos,PJ,Varejo,9,2022,23793.78,Inativo
+149.841.499-06,Vagner Carvalho,PF,Automotivo,5,2023,29043.38,Ativo
+381.310.735-30,Wanda Rezende,PF,Financeiro,8,2019,29529.2,Inativo
+608.053.731-10,Xavier Monteiro,PF,Saúde,5,2018,34049.02,Inativo
+723.227.079-88,Yara Freitas,PF,Construção,9,2021,76061.97,Inativo
+663.975.721-45,Zélio Araújo,PF,Agronegócio,2,2019,45372.09,Ativo
+027.199.816-48,Amanda Costa,PF,Alimentação,6,2021,52346.89,Inativo
+401.314.393-32,Bernardo Machado,PF,Turismo,5,2019,29172.41,Inativo
+922.458.108-05,Camila Pereira,PF,Educação,9,2024,64628.73,Ativo
+255.131.478-07,Daniel Oliveira,PF,Moda,12,2020,43529.21,Inativo
+371.079.541-99,Elisa Martins,PF,Varejo,11,2021,66578.14,Ativo
+114.433.305-90,Ana Lima,PF,Tecnologia,9,2019,25724.62,Inativo
+680.966.266-98,Bruno Souza,PF,Beleza,4,2018,26799.25,Ativo
+498.954.683-00,Carlos Mendes,PF,Automotivo,4,2019,18449.76,Ativo
+519.989.692-07,Diana Rocha,PF,Financeiro,9,2019,11133.04,Inativo
